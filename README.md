@@ -1,5 +1,4 @@
 # 2022_WECJ_Paper_Simulation-Based-Evaluation-of-CI_Open-Data
-Open data on charging behavior at public charging stations. Publication: Simulation-based Assessment of Charging Concepts: The Park-and-Ride Case. https://doi.org/10.3390/wevj13080151 
 
 The data provided is part of the Jorunal publication "Simulation-Based Evaluation of Charging Infrastructure Concepts: The Park and Ride Case"   https://doi.org/10.3390/wevj13080151
 
